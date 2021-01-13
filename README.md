@@ -1,2 +1,5 @@
-# python_scrapping
-Python + BeautifulSoap para hacer Scrapping
+#ReadMe
+
+Ejecutar el código
+
+> py scraping.py
